@@ -21,7 +21,7 @@ HEllo Welcome am Gérsia Nice to meet you
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gercia-yoda" src="https://picrew.me/share?cd=aUifSpswhz #Picrew #AmphyPop_Doll_Maker">
+
 </div>
  <div> 
   <a href="https://www.youtube.com/channel/UC3xHbEmfFWDcXXkQ32VHQBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@ HEllo Welcome am Gérsia Nice to meet you
   <a href = "mailto:fonsecagercia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gercia-fonseca-5698a65b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/gfonseca18/gfonseca/blob/output/github-contribution-grid-snake.svg)
-   
+  ![Snake animation](  https://github.com/gfonseca18/gfonseca18/actions/runs/1103141578/workflow)
+ 
 
 </div>
