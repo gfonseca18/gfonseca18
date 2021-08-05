@@ -1,4 +1,4 @@
-HEllo Welcome am Gérsia Nice to meet you
+##Hello Welcome am Gérsia Nice to meet you
 
 - 🔭 I’m currently working on ...Mobile Development
 - 🌱 I’m currently learning ...JavaScript
