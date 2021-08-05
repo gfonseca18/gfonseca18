@@ -1,15 +1,10 @@
-### Here is what I'm working On!👋
-
-
-
-Here are some ideas to get you started:
+HEllo Welcome am Gérsia Nice to meet you
 
 - 🔭 I’m currently working on ...Mobile Development
 - 🌱 I’m currently learning ...JavaScript
 - 👯 I’m looking to collaborate on ...JavaScript
 - 🤔 I’m looking for help with ...Python
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...https://www.instagram.com/gersia18/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...I don't like Anime and play Games
 
@@ -26,12 +21,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="gercia-yoda" src="https://picrew.me/share?cd=aUifSpswhz #Picrew #AmphyPop_Doll_Maker">
 </div>
  <div> 
   <a href="https://www.youtube.com/channel/UC3xHbEmfFWDcXXkQ32VHQBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gersia18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
   <a href = "mailto:fonsecagercia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gercia-fonseca-5698a65b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
